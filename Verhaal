@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<title> Het verhaal </title>
+<head>
+<style>
+body {
+ text-align: center;
+      background: url(https://i.imgur.com/l0Tgop5.jpg);
+      background-size: cover;
+      background-position: center;
+      color: white;
+      font-family: helvetica;
+    }
+</head>
+
+<body>
+<p> Het verhaal
+</body>
